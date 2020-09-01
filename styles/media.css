@@ -1,0 +1,25 @@
+@media screen and (max-width: 800px){
+    .side-container{
+        width: 100vw;
+        padding: 10px;
+    }
+    .sm-hide{
+        display: none;
+    }
+    .button-group-inline{
+        height: 200px;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        flex-direction: column;
+    }
+
+    a{
+        width: 100%;
+    }
+
+    .remember a.link{
+        width: 40%;
+    }
+}
+
