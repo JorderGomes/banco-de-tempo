@@ -36,7 +36,9 @@ body{
     height: auto;
 }
 
-
+.titles{
+    width: 100%;
+}
 
 .button-group-inline{
     width: 100%;
